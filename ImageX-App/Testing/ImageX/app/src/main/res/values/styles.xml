@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="TextViewInter">
+        <item name="android:fontFamily">@font/inter_variable_font</item>
+        <!-- You can also specify other attributes like text color, text size, etc. -->
+    </style>
+
+</resources>
